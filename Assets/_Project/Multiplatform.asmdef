@@ -1,6 +1,6 @@
 {
     "name": "Multiplatform",
-    "rootNamespace": "",
+    "rootNamespace": "Multiplatform",
     "references": [
         "GUID:75469ad4d38634e559750d17036d5f7c",
         "GUID:57c32fc907df0f54e8e6e8f0d2488336",

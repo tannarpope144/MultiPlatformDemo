@@ -1,0 +1,15 @@
+*.suo
+build
+external
+*.csproj.user
+*.lnk
+*.DS_Store
+_ReSharper.*
+*.resharper.user
+*.resharper
+*.meta
+src/Unity/Library
+src/Unity/Temp
+*.csproj
+*.sln
+*.userprefs
